@@ -40,7 +40,6 @@ function LandingPage() {
           console.error('Error fetching data: ', error);
         }
       } else {
-        // Fetch popular movies when the search query is empty
         fetchPopularMovies();
       }
     };
