@@ -8,7 +8,6 @@ function LandingPage() {
     // Define your TMDb API key
     const apiKey = 'cfe422613b250f702980a3bbf9e90716';
 
-    // Function to fetch popular movies
     const fetchPopularMovies = async () => {
       try {
         const response = await fetch(
