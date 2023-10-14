@@ -5,7 +5,7 @@ function LandingPage() {
   const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
-    // Define your TMDb API key
+ 
     const apiKey = 'cfe422613b250f702980a3bbf9e90716';
 
     const fetchPopularMovies = async () => {
