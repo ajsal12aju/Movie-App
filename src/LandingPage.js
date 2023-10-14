@@ -13,7 +13,7 @@ function LandingPage() {
     <figure>
 <img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/kdPMUMJzyYAc4roD52qavX0nLIC.jpg" />
     <figcaption>
-    <h2 className="movie__title">Talk to Me</h2>
+    <h2 className="movie__title">Talk to Me ok</h2>
     </figcaption>
     </figure>
 </div>
