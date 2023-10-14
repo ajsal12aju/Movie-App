@@ -24,7 +24,7 @@ function LandingPage() {
       }
     };
 
-    // Function to fetch movies based on the search query
+
     const fetchMovies = async () => {
       if (searchQuery) {
         try {
