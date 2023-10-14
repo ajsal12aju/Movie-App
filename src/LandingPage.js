@@ -45,7 +45,6 @@ function LandingPage() {
       }
     };
 
-    // Call the fetchMovies function when the searchQuery changes
     fetchMovies();
   }, [searchQuery]);
 
